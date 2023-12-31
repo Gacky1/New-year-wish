@@ -65,8 +65,8 @@ body {
 
 .heart span {
   position: relative;
-  top: 15px;
-  left: 25px;
+  top: 10px;
+  left: 35px;
   z-index: 1;
   animation: ChangeColor var(--all-animations-duration) infinite
     alternate-reverse;
